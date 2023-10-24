@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534849573001",
+    "project_id": "fir-ee6db",
+    "storage_bucket": "fir-ee6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534849573001:android:9287c2a1fc94296e6ab658",
+        "android_client_info": {
+          "package_name": "com.example.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534849573001-bdq5cjl0tuettnnts3mt7937fftip7qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jMEq1eFtkp9h8LlU9XcJ0H9xhd-PJtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534849573001-bdq5cjl0tuettnnts3mt7937fftip7qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
